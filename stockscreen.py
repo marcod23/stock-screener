@@ -369,6 +369,9 @@ def count_positives(data):
     return positive_nums
 
 
+# MAIN STARTS HERE
+# program flow starts here, everything above is functions
+
 def main():
 
     driver = webdriver.Chrome()
