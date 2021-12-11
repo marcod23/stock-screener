@@ -370,7 +370,7 @@ def count_positives(data):
 
 
 #  MAIN STARTS HERE
-#  program flow starts here 
+#  program flow begins here 
 #  everything above is functions used below
 
 def main():
