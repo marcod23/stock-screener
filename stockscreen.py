@@ -369,8 +369,9 @@ def count_positives(data):
     return positive_nums
 
 
-# MAIN STARTS HERE
-# program flow starts here, everything above is functions used below
+#  MAIN STARTS HERE
+#  program flow starts here 
+#  everything above is functions used below
 
 def main():
 
